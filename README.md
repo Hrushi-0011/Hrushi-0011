@@ -19,7 +19,6 @@ Currently exploring ways to blend engineering, data science, and innovation to s
 - **Monte-Carlo Option Pricer**
 - **AI-Lead-Intake-CRM-Pipeline**
 - **Fibonnaci-Helical-Nebula(Harcoding a visual animation)**
-- 
 ---
 
 ## Technical Skills
