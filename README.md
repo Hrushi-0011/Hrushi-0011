@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-I’m a **Mechanical Engineering student** with a passion for **AI, Quantitative Research, and Futuristic Technologies**.  
+I’m a **Mechanical Engineering student** with a passion for **Aerospace, Automotive, Robotics and Automation, and Futuristic Technologies**.  
 Currently exploring ways to blend engineering, data science, and innovation to solve real-world problems.
 
 ### 🌐 Interests & Focus Areas:
 
-- 🧠 **Artificial Intelligence & Quantitative Finance**
+- 🧠 **Aero+Auto with Robotics and AI/ML**
 - 🏎️ **Next-Gen Transportation & Clean Energy Tech**
 - 🏀 **Sports, Science, Basketball, Data Analytics & Human Performance**
 - ⚙️ **Product Design & Tech-Integrated Wearables**
@@ -16,31 +16,23 @@ Currently exploring ways to blend engineering, data science, and innovation to s
 ---
 
 ## 🛠️ Current Projects
-
-- **AI-Powered Medical Assistant App**  
-  *Simplifying triage, diagnostics, and emergency response through AI.*
-
-- **Quant AI Research**  
-  *Building models for financial analysis and predictive systems.*
-
-- **Cooling Wearable Innovation**  
-  *Researching advanced wearable cooling systems using PCM, radiative materials, and AI integration.*
-
+- **Monte-Carlo Option Pricer**
+- **AI-Lead-Intake-CRM-Pipeline**
 ---
 
 ## 🧑‍💻 Technical Skills
 
-- **Languages:** Python, C++, MATLAB  
-- **Tools & Frameworks:** Git, GitHub, VS Code, Jupyter, Excel Analytics  
-- **Fields:** Data Science, Prompt Engineering, Calisthenics Performance Tracking  
+- **Languages:** Python, C++, MATLAB, Simulink, CAD, CAM.
+- **Tools & Frameworks:** Git, GitHub, VS Code, Jupyter, Excel Analytics, Solidworks, MATLAB, Lotus.   
+- **Fields:** Data Science, Aerospace + Automotive Engineering, Robotics & Automation.
 - **Soft Skills:** Problem Solving, Rapid Prototyping, Interdisciplinary Collaboration
 
 ---
 
 ## 🌱 Learning & Growth
 
-- Expanding into **Quantitative Finance, Machine Learning, and Prompt Engineering**  
-- Exploring **Quantum Computing & Magnetic Transport Systems**
+- Expanding into **A Robotics + Automation Startup, Machine Learning, and Manufacturing**  
+- Exploring **Artistic touch in engineering, Easy solutions to complex problems, and safe AI driven technologies.**
 
 ---
 
