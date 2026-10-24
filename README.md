@@ -22,7 +22,13 @@ Currently exploring ways to blend engineering, data science, and innovation to s
 
 ## 🧑‍💻 Technical Skills
 
-- **Languages:** Python, C++, MATLAB, Simulink, CAD, CAM.
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![C++](https://shields.io)
+![MATLAB](https://shields.io)
+![MySQL](https://shields.io)
+
 - **Tools & Frameworks:** Git, GitHub, VS Code, Jupyter, Excel Analytics, Solidworks, MATLAB, Lotus.   
 - **Fields:** Data Science, Aerospace + Automotive Engineering, Robotics & Automation.
 - **Soft Skills:** Problem Solving, Rapid Prototyping, Interdisciplinary Collaboration
