@@ -18,18 +18,14 @@ Currently exploring ways to blend engineering, data science, and innovation to s
 ## 🛠️ Current Projects
 - **Monte-Carlo Option Pricer**
 - **AI-Lead-Intake-CRM-Pipeline**
+- **Fibonnaci-Helical-Nebula(Harcoding a visual animation)**
+- 
 ---
 
 ## 🧑‍💻 Technical Skills
 
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![C++](https://shields.io)
-![MATLAB](https://shields.io)
-![MySQL](https://shields.io)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,node.js,mongodb,mysql,react,cpp,c,figma,ae,blender,pr,docker,fastapi,git,github,godot,ai,kubernetes,matlab,arduino,&perline=3)](https://skillicons.dev)
 
-- **Tools & Frameworks:** Git, GitHub, VS Code, Jupyter, Excel Analytics, Solidworks, MATLAB, Lotus.   
 - **Fields:** Data Science, Aerospace + Automotive Engineering, Robotics & Automation.
 - **Soft Skills:** Problem Solving, Rapid Prototyping, Interdisciplinary Collaboration
 
