@@ -24,7 +24,7 @@ Currently exploring ways to blend engineering, data science, and innovation to s
 
 ## 🧑‍💻 Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,node.js,mongodb,mysql,react,cpp,c,figma,ae,blender,pr,docker,fastapi,git,github,godot,ai,kubernetes,matlab,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mongodb,mysql,react,cpp,c,figma,ae,blender,pr,docker,fastapi,git,github,godot,ai,kubernetes,matlab,arduino&theme=light)](https://skillicons.dev)
 
 - **Fields:** Data Science, Aerospace + Automotive Engineering, Robotics & Automation.
 - **Soft Skills:** Problem Solving, Rapid Prototyping, Interdisciplinary Collaboration
