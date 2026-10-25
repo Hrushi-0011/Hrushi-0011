@@ -39,8 +39,8 @@ Currently exploring ways to blend engineering, data science, and innovation to s
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com](https://www.linkedin.com/in/hrushikesh-pawar-912656309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- **Twitter:** [twitter.com/Hrushidesu_X](https://x.com/Hrushidesu_X?t=OVfBb4D30A7spm39XGycmQ&s=0)  
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/hrushikesh-pawar-912656309)  
+- **Twitter:** [twitter.com/Hrushidesu_X](https://x.com/Hrushidesu_X?t=OVfBb4D30A7spm39XGycmQ&s=0) 
 - **Email:** pawarhrushi0011@gmail.com
 > “If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration.”  
 > — *Nikola Tesla*
