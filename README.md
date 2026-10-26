@@ -1,5 +1,7 @@
 # Namaskāraḥ, I'm Hrushi.
 
+<p align="center"><img src="assets/ash-greninja.svg" width="420" alt="Ash-Greninja"></p>
+
 ## About
 
 I’m a **Mechanical Engineering student** with a passion for **Aerospace, Automotive, Robotics and Automation, and Futuristic Technologies**.  
