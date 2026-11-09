@@ -20,6 +20,7 @@ Currently exploring ways to blend engineering, data science, and innovation to s
 ## Current Projects
 - **Monte-Carlo Option Pricer**
 - **Fibonnaci-Helical-Nebula(Harcoding a visual animation)**
+- **Sales Analysis Dashboard**
 ---
 
 ## Technical Skills
