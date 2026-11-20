@@ -5,8 +5,6 @@
 I’m a **Mechanical Engineering student** with a passion for **Aerospace, Automotive, Robotics and Automation, and Futuristic Technologies**.  
 Currently exploring ways to blend engineering, data science, and innovation to solve real-world problems.
 
-<p align="center"><img src="assets/ash-greninja.svg" width="420" alt="Ash-Greninja"></p>
-
 ### Interests & Focus Areas:
 
 -  **Aero+Auto with Robotics and AI/ML**
@@ -40,6 +38,8 @@ Currently exploring ways to blend engineering, data science, and innovation to s
 ---
 
 ## Connect With Me
+
+<p align="center"><img src="assets/ash-greninja.svg" width="420" alt="Ash-Greninja"></p>
 
 - **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/hrushikesh-pawar-912656309)  
 - **Twitter:** [twitter.com/Hrushidesu_X](https://x.com/Hrushidesu_X?t=OVfBb4D30A7spm39XGycmQ&s=0) 
